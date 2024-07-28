@@ -1,0 +1,3 @@
+D:/Foundation/calculation/calculation/cmake-build-debug/CMakeFiles/calculation.dir
+D:/Foundation/calculation/calculation/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Foundation/calculation/calculation/cmake-build-debug/CMakeFiles/rebuild_cache.dir
